@@ -6,7 +6,7 @@
 
 **Assignment:** Individual Project
 
-**Student:** Isheeta Mishra
+**Student:** Isheeta Mishrra
 
 **Academic Year:** 2025–2026
 
