@@ -1,4 +1,4 @@
-# PromoFlow
+# PromoFlow: A Data-Driven Decision Support MVP for Promotional Demand Forecasting and Inventory Risk Analysis
 
 ## Project Information
 
